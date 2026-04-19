@@ -1,5 +1,3 @@
 
 
-PSwdG3NzARQslJlgz9vWVaO3rGNoM7hjtkh8   -- app key
-
-MAtImyzWuRPj8ypiGwhQM2cZtRB9gZti -- screte key
+test
