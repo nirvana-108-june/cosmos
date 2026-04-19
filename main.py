@@ -2,8 +2,8 @@ import requests
 
 BASE_URL = "https://openapi.ls-sec.co.kr:8080"  # 실제 LS OpenAPI 베이스 URL 확인 필요
 
-APP_KEY = "PSwdG3NzARQslJlgz9vWVaO3rGNoM7hjtkh8"
-APP_SECRET = "MAtImyzWuRPj8ypiGwhQM2cZtRB9gZti"
+APP_KEY = "222"
+APP_SECRET = "111"
 
 
 
